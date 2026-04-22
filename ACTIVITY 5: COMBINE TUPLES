@@ -1,0 +1,11 @@
+# ACTIVITY 5: COMBINE TUPLES
+# Combine and repeat twice
+
+t1 = (1, 2)
+t2 = (3, 4)
+
+# Combine and repeat twice
+result = (t1 + t2) * 2
+
+print(result) 
+# The output will be (1,2,3,4,1,2,3,4)
