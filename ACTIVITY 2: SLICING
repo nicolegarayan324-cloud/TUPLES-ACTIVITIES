@@ -1,0 +1,8 @@
+# ACTIVITY 2: SLICCING
+# print (20,30,40)
+
+numbers = (10, 20, 30, 40, 50)
+
+print(numbers[1:4]) 
+#  Remember the first items has index 0, the second items has index 1.
+# The output will be (20,30,40)
