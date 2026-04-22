@@ -1,0 +1,9 @@
+# ACTIVITY 4: TUPLE PACKING AND UNPACKING
+# Assign values to x and y
+# Print: x = 5, y = 10
+
+point = (5, 10)
+
+# ASSIGN VALUES TO X AND Y
+x,y=point
+print("x =", x, ", y =", y)
