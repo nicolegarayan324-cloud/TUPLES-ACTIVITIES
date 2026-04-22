@@ -1,0 +1,7 @@
+# ACTIVITY 1: ACCESS ELEMENTS
+# print first and last items
+
+colors = ("red", "green", "blue")
+print(colors[0]) # The output will be red.
+
+print(colors[2]) # The output will be blue.
